@@ -1,0 +1,4 @@
+mondrian
+========
+
+Mondrianesque pictures generator
